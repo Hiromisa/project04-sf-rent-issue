@@ -8,7 +8,7 @@ https://docs.google.com/document/d/1X0ma1w4W_0ZairvO2Ng232b3qRNsSIYZp1JSkan75Fs/
 
 ---
 ## Data
-"Metro_ZORI_AllHomesPlusMultifamily_SSA.csv" come from [Zillow] (https://www.zillow.com/research/data/)
+"Metro_ZORI_AllHomesPlusMultifamily_SSA.csv" come from [Zillow](https://www.zillow.com/research/data/)
 
 This file contains a table that shows Metro areas and the U.S. rent index which called Zillow Observed Rent Index (ZORI) from 2014 to 2021, monthly.
 I used seasonally adjusted data for my analysis.
@@ -21,7 +21,7 @@ I merged/filtered some data on them with Jupyter/pandas, then created new CSV fi
 
 I also analyzed rent trend by zipcode in San Francisco bayarea. 
 For this analysis, I used "Zip_ZORI_AllHomesPlusMultifamily_SSA.csv", 
-which downloaded from [Zillow] (https://www.zillow.com/research/data/) and "bayarea_zipcodes.csv" which is the zipcode list of San Francisco Bay area.
+which downloaded from [Zillow](https://www.zillow.com/research/data/) and "bayarea_zipcodes.csv" which is the zipcode list of San Francisco Bay area.
 I merged/filtered some data on them with Jupyter/pandas, then created new a CSV file titled "sfzip_rent.csv"
 
 ---
