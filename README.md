@@ -1,4 +1,4 @@
-# project: San Francisco rent issue
+# Project: San Francisco rent issue
 
 This is a project for Lede week4. I analyzed the rent trend in San Francisco and 20 metro areas in the U.S.
 I use Zillow's Zillow Observed Rent Index (ZORI) and LinkedIn's Workforce Report for analysis.
